@@ -1,6 +1,6 @@
 # MNIST Number Image Classification
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
+![Image by Josef Steppan on Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
 ## In this notebook:
 -- Used logistic regression with mean squared error loss and mini-batch stochastic gradient descent to train 10 classifiers to predict the label of numeric images as a number between 0 and 9.
